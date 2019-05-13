@@ -1,0 +1,22 @@
+<AL_methods>
+	<method>Object[] toArray ()</method>
+	<method>boolean add (Object arg0)</method>
+	<method>boolean remove (Object arg0)</method>
+	<method>boolean contains (Object arg0)</method>
+	<method>boolean addAll (Collection arg0)</method>
+	<method>boolean offer (Object arg0)</method>
+	<method>boolean offerFirst (Object arg0)</method>
+	<method>boolean offerLast (Object arg0)</method>
+	<method>boolean removeFirstOccurrence (Object arg0)</method>
+	<method>boolean removeLastOccurrence (Object arg0)</method>
+	<method>boolean addAll (int arg0,Collection arg1)</method>
+	<method>int size ()</method>
+	<method>int indexOf (Object arg0)</method>
+	<method>int lastIndexOf (Object arg0)</method>
+	<method>Object clone ()</method>
+	<method>void clear ()</method>
+	<method>void push (Object arg0)</method>
+	<method>void addFirst (Object arg0)</method>
+	<method>void addLast (Object arg0)</method>
+	<method>void add (int arg0,Object arg1)</method>
+</AL_methods>
